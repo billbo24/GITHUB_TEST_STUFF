@@ -15,7 +15,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Github is dumb and I hate it")
             Text("The quick brown fox jumped over the lazy dog")
-            Text("This is stash 1, but gonna trry some editing")
+            Text("This is stash 2")
             
         }
         .padding()
