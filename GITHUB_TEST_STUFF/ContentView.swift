@@ -13,7 +13,8 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Github is dumb and I hate it")
+            Text("Now I'm gonna add this stuff and see what happens when I try to push")
         }
         .padding()
     }
