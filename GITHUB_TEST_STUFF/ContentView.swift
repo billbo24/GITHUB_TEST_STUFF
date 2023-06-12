@@ -15,7 +15,8 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Github is dumb and I hate it")
             Text("The quick brown fox jumped over the lazy dog")
-            Text("This is stash 2 with online edit at 10:30")
+            Text("This is local commit 2")
+            Text("these are important changes I don't want to lose")
             
         }
         .padding()
